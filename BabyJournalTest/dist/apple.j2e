@@ -1,0 +1,1 @@
+"C:\Program Files\Jar2Exe Wizard\j2ewiz" /jar C:\Users\user\Documents\NetBeansProjects\BabyJournalTest\dist\BabyJournalTest.jar /o C:\Users\user\Documents\NetBeansProjects\BabyJournalTest\dist\BabyJournalTest /m babyjournaltest.NewJFrame /type console /minjre 1.0.0 /maxjre 1.8 /platform mac /checksum /amd64

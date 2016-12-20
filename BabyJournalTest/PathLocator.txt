@@ -1,0 +1,4 @@
+C:\Users\user\Documents\cheers.doc C:\Users\user\Pictures\IMG_3089.jpg
+C:\Users\user\Documents\bupa.doc C:\Users\user\Documents\IMG_20160506_0004.jpg
+C:\Users\user\Documents\good.doc C:\Users\user\Documents\IMG_20160506_0002.jpg
+C:\Users\user\Documents\hihi.doc null
